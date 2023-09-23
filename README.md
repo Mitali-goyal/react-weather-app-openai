@@ -9,7 +9,6 @@ The OpenAI Weather App is a React-based weather forecasting application that lev
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Features
